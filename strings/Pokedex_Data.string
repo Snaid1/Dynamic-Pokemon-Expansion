@@ -1519,19 +1519,21 @@ Inhabiting the mountains of a distant\nregion, it races across sheer cliffs, tra
 #org @DEX_ENTRY_ZARUDE
 Once the vines on its body tear off,\nthey become nutrients in the soil. This helps\nthe plants of the forest grow.
 
-/*
-#org @DEX_ENTRY_UNKNOWN_MYTHICAL
+#org @DEX_ENTRY_REGIELEKI
+Its entire body is made up of a single organ\nthat generates electrical energy. Regileki\nis capable of creating all Galar's electricity.
+
+#org @DEX_ENTRY_REGIDRAGO
+This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
+
+#org @DEX_ENTRY_GLASTRIER
+This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
+
+#org @DEX_ENTRY_SPECTRIER
 This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
 
 #org @DEX_ENTRY_CALYREX
 Its every move is filled with grace\nand dignity. Extremely intelligent, it is said\nto see past, present, and future events.
 
-#org @DEX_ENTRY_REGIELEKI
-This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
-
-#org @DEX_ENTRY_REGIDRAGO
-This is a newly discovered Pok\emon.\nIt is currently under investigation. No\ninformation is available at this time.
-*/
 
 //Special Form Entries
 
