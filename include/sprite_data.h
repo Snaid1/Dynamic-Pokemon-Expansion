@@ -6122,7 +6122,7 @@ extern const u8 gIconSprite1136SandacondaTiles[];
 extern const u8 gIconSprite1137CramorantTiles[];/*
 extern const u8 gIconSprite1138ArrokudaTiles[];
 extern const u8 gIconSprite1139BarraskewdaTiles[];
-extern const u8 gIconSprite1140ToxelTiles[];
+extern const u8 gIconSprite1140ToxelTiles[];*/
 extern const u8 gIconSprite1141ToxtricityTiles[];
 extern const u8 gIconSprite1142SizzlipedeTiles[];
 extern const u8 gIconSprite1143CentiskorchTiles[];
@@ -6142,7 +6142,7 @@ extern const u8 gIconSprite1156CursolaTiles[];
 extern const u8 gIconSprite1157SirfetchdTiles[];
 extern const u8 gIconSprite1158MrRimeTiles[];
 extern const u8 gIconSprite1159RunerigusTiles[];
-extern const u8 gIconSprite1160MilceryTiles[];
+extern const u8 gIconSprite1160MilceryTiles[];/*
 extern const u8 gIconSprite1161AlcremieStrawberryTiles[];
 extern const u8 gIconSprite1162FalinksTiles[];
 extern const u8 gIconSprite1163PincurchinTiles[];
