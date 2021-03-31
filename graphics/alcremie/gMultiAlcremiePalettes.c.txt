@@ -1,0 +1,491 @@
+
+@{{BLOCK(gMultiAlcremiePalettes)
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1207AlcremieRubyStrawberryPal		@ 32 bytes
+gFrontSprite1207AlcremieRubyStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x397F,0xD800,0x9124,0x001C,0x0000
+	.size	gFrontSprite1207AlcremieRubyStrawberryPal, .-gFrontSprite1207AlcremieRubyStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1208AlcremieRubyBerryPal		@ 32 bytes
+gFrontSprite1208AlcremieRubyBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x65E0,0x4000,0xA049,0x0034,0x0000
+	.size	gFrontSprite1208AlcremieRubyBerryPal, .-gFrontSprite1208AlcremieRubyBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1209AlcremieRubyCloverPal		@ 32 bytes
+gFrontSprite1209AlcremieRubyCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x2371,0x4300,0x4312,0x0011,0x0000
+	.size	gFrontSprite1209AlcremieRubyCloverPal, .-gFrontSprite1209AlcremieRubyCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1210AlcremieRubyFlowerPal		@ 32 bytes
+gFrontSprite1210AlcremieRubyFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x03FF,0xBF00,0xF315,0x000C,0x0000
+	.size	gFrontSprite1210AlcremieRubyFlowerPal, .-gFrontSprite1210AlcremieRubyFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1211AlcremieRubyLovePal		@ 32 bytes
+gFrontSprite1211AlcremieRubyLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x667F,0xDF00,0xFB3D,0x0034,0x0000
+	.size	gFrontSprite1211AlcremieRubyLovePal, .-gFrontSprite1211AlcremieRubyLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1212AlcremieRubyRibbonPal		@ 32 bytes
+gFrontSprite1212AlcremieRubyRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x5A36,0x9200,0x2E55,0x0045,0x0000
+	.size	gFrontSprite1212AlcremieRubyRibbonPal, .-gFrontSprite1212AlcremieRubyRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1213AlcremieRubyStarPal		@ 32 bytes
+gFrontSprite1213AlcremieRubyStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0x5F7F,0x796B,0x0C5E,0x61DD
+	.hword 0x3950,0x0710,0x0350,0x1B9F,0xD900,0xD80E,0x0009,0x0000
+	.size	gFrontSprite1213AlcremieRubyStarPal, .-gFrontSprite1213AlcremieRubyStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1214AlcremieMatchaStrawberryPal		@ 36 bytes
+gFrontSprite1214AlcremieMatchaStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0x7F03,0xD839,0x9124,0x001C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1214AlcremieMatchaStrawberryPal, .-gFrontSprite1214AlcremieMatchaStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1215AlcremieMatchaBerryPal		@ 36 bytes
+gFrontSprite1215AlcremieMatchaBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0xE003,0x4065,0xA049,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1215AlcremieMatchaBerryPal, .-gFrontSprite1215AlcremieMatchaBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1216AlcremieMatchaCloverPal		@ 36 bytes
+gFrontSprite1216AlcremieMatchaCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0x7103,0x4323,0x4312,0x0011
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1216AlcremieMatchaCloverPal, .-gFrontSprite1216AlcremieMatchaCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1217AlcremieMatchaFlowerPal		@ 36 bytes
+gFrontSprite1217AlcremieMatchaFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0xFF03,0xBF03,0xF315,0x000C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1217AlcremieMatchaFlowerPal, .-gFrontSprite1217AlcremieMatchaFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1218AlcremieMatchaLovePal		@ 36 bytes
+gFrontSprite1218AlcremieMatchaLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0x7F03,0xDF66,0xFB3D,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1218AlcremieMatchaLovePal, .-gFrontSprite1218AlcremieMatchaLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1219AlcremieMatchaRibbonPal		@ 36 bytes
+gFrontSprite1219AlcremieMatchaRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0x3603,0x925A,0x2E55,0x0045
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1219AlcremieMatchaRibbonPal, .-gFrontSprite1219AlcremieMatchaRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1220AlcremieMatchaStarPal		@ 36 bytes
+gFrontSprite1220AlcremieMatchaStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFD7F,0x566B,0x004F,0x3398
+	.hword 0x2A0D,0x67FD,0x4F56,0x5080,0x9F03,0xD91B,0xD80E,0x0009
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1220AlcremieMatchaStarPal, .-gFrontSprite1220AlcremieMatchaStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1221AlcremieMintStrawberryPal		@ 36 bytes
+gFrontSprite1221AlcremieMintStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0x7F03,0xD839,0x9124,0x001C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1221AlcremieMintStrawberryPal, .-gFrontSprite1221AlcremieMintStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1222AlcremieMintBerryPal		@ 36 bytes
+gFrontSprite1222AlcremieMintBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0xE003,0x4065,0xA049,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1222AlcremieMintBerryPal, .-gFrontSprite1222AlcremieMintBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1223AlcremieMintCloverPal		@ 36 bytes
+gFrontSprite1223AlcremieMintCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0x7103,0x4323,0x4312,0x0011
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1223AlcremieMintCloverPal, .-gFrontSprite1223AlcremieMintCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1224AlcremieMintFlowerPal		@ 32 bytes
+gFrontSprite1224AlcremieMintFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x6080,0x0303,0x15BF,0x0CF3,0x0000
+	.size	gFrontSprite1224AlcremieMintFlowerPal, .-gFrontSprite1224AlcremieMintFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1225AlcremieMintLovePal		@ 36 bytes
+gFrontSprite1225AlcremieMintLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0x7F03,0xDF66,0xFB3D,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1225AlcremieMintLovePal, .-gFrontSprite1225AlcremieMintLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1226AlcremieMintRibbonPal		@ 36 bytes
+gFrontSprite1226AlcremieMintRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0x3603,0x925A,0x2E55,0x0045
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1226AlcremieMintRibbonPal, .-gFrontSprite1226AlcremieMintRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1227AlcremieMintStarPal		@ 36 bytes
+gFrontSprite1227AlcremieMintStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDA7F,0xB377,0x005A,0x674E
+	.hword 0x41C9,0x7FFF,0x5AD5,0x5080,0x9F03,0xD91B,0xD80E,0x0009
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1227AlcremieMintStarPal, .-gFrontSprite1227AlcremieMintStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1228AlcremieLemonStrawberryPal		@ 36 bytes
+gFrontSprite1228AlcremieLemonStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0x7F03,0xD839,0x9124,0x001C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1228AlcremieLemonStrawberryPal, .-gFrontSprite1228AlcremieLemonStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1229AlcremieLemonBerryPal		@ 36 bytes
+gFrontSprite1229AlcremieLemonBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0xE003,0x4065,0xA049,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1229AlcremieLemonBerryPal, .-gFrontSprite1229AlcremieLemonBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1230AlcremieLemonCloverPal		@ 36 bytes
+gFrontSprite1230AlcremieLemonCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0x7103,0x4323,0x4312,0x0011
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1230AlcremieLemonCloverPal, .-gFrontSprite1230AlcremieLemonCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1231AlcremieLemonFlowerPal		@ 32 bytes
+gFrontSprite1231AlcremieLemonFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x6080,0x0303,0x15BF,0x0CF3,0x0000
+	.size	gFrontSprite1231AlcremieLemonFlowerPal, .-gFrontSprite1231AlcremieLemonFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1232AlcremieLemonLovePal		@ 36 bytes
+gFrontSprite1232AlcremieLemonLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0x7F03,0xDF66,0xFB3D,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1232AlcremieLemonLovePal, .-gFrontSprite1232AlcremieLemonLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1233AlcremieLemonRibbonPal		@ 36 bytes
+gFrontSprite1233AlcremieLemonRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0x3603,0x925A,0x2E55,0x0045
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1233AlcremieLemonRibbonPal, .-gFrontSprite1233AlcremieLemonRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1234AlcremieLemonStarPal		@ 36 bytes
+gFrontSprite1234AlcremieLemonStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0xFA4F,0x0026,0x039D
+	.hword 0x0DEE,0x7FFF,0x5AD5,0x5080,0x9F03,0xD91B,0xD80E,0x0009
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1234AlcremieLemonStarPal, .-gFrontSprite1234AlcremieLemonStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1235AlcremieSaltedStrawberryPal		@ 32 bytes
+gFrontSprite1235AlcremieSaltedStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x397F,0xD800,0x9124,0x001C,0x0000
+	.size	gFrontSprite1235AlcremieSaltedStrawberryPal, .-gFrontSprite1235AlcremieSaltedStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1236AlcremieSaltedBerryPal		@ 32 bytes
+gFrontSprite1236AlcremieSaltedBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x65E0,0x4000,0xA049,0x0034,0x0000
+	.size	gFrontSprite1236AlcremieSaltedBerryPal, .-gFrontSprite1236AlcremieSaltedBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1237AlcremieSaltedCloverPal		@ 32 bytes
+gFrontSprite1237AlcremieSaltedCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x2371,0x4300,0x4312,0x0011,0x0000
+	.size	gFrontSprite1237AlcremieSaltedCloverPal, .-gFrontSprite1237AlcremieSaltedCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1238AlcremieSaltedFlowerPal		@ 32 bytes
+gFrontSprite1238AlcremieSaltedFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x03FF,0xBF00,0xF315,0x000C,0x0000
+	.size	gFrontSprite1238AlcremieSaltedFlowerPal, .-gFrontSprite1238AlcremieSaltedFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1239AlcremieSaltedLovePal		@ 32 bytes
+gFrontSprite1239AlcremieSaltedLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x667F,0xDF00,0xFB3D,0x0034,0x0000
+	.size	gFrontSprite1239AlcremieSaltedLovePal, .-gFrontSprite1239AlcremieSaltedLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1240AlcremieSaltedRibbonPal		@ 32 bytes
+gFrontSprite1240AlcremieSaltedRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x5A36,0x9200,0x2E55,0x0045,0x0000
+	.size	gFrontSprite1240AlcremieSaltedRibbonPal, .-gFrontSprite1240AlcremieSaltedRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1241AlcremieSaltedStarPal		@ 32 bytes
+gFrontSprite1241AlcremieSaltedStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBD7F,0xD67F,0x0C5E,0x674E
+	.hword 0x316B,0x0710,0x0350,0x1B9F,0xD900,0xD80E,0x0009,0x0000
+	.size	gFrontSprite1241AlcremieSaltedStarPal, .-gFrontSprite1241AlcremieSaltedStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1242AlcremieRubySwirlStrawberryPal		@ 36 bytes
+gFrontSprite1242AlcremieRubySwirlStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0x7F03,0xD839,0x9124,0x001C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1242AlcremieRubySwirlStrawberryPal, .-gFrontSprite1242AlcremieRubySwirlStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1243AlcremieRubySwirlBerryPal		@ 36 bytes
+gFrontSprite1243AlcremieRubySwirlBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0xE003,0x4065,0xA049,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1243AlcremieRubySwirlBerryPal, .-gFrontSprite1243AlcremieRubySwirlBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1244AlcremieRubySwirlCloverPal		@ 36 bytes
+gFrontSprite1244AlcremieRubySwirlCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0x7103,0x4323,0x4312,0x0011
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1244AlcremieRubySwirlCloverPal, .-gFrontSprite1244AlcremieRubySwirlCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1245AlcremieRubySwirlFlowerPal		@ 36 bytes
+gFrontSprite1245AlcremieRubySwirlFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0xFF03,0xBF03,0xF315,0x000C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1245AlcremieRubySwirlFlowerPal, .-gFrontSprite1245AlcremieRubySwirlFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1246AlcremieRubySwirlLovePal		@ 36 bytes
+gFrontSprite1246AlcremieRubySwirlLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0x7F03,0xDF66,0xFB3D,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1246AlcremieRubySwirlLovePal, .-gFrontSprite1246AlcremieRubySwirlLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1247AlcremieRubySwirlRibbonPal		@ 36 bytes
+gFrontSprite1247AlcremieRubySwirlRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0x3603,0x925A,0x2E55,0x0045
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1247AlcremieRubySwirlRibbonPal, .-gFrontSprite1247AlcremieRubySwirlRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1248AlcremieRubySwirlStarPal		@ 36 bytes
+gFrontSprite1248AlcremieRubySwirlStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xDF7F,0xFA6B,0x0052,0x431E
+	.hword 0x2990,0x62DF,0x41FC,0x5080,0x9F03,0xD91B,0xD80E,0x0009
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1248AlcremieRubySwirlStarPal, .-gFrontSprite1248AlcremieRubySwirlStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1249AlcremieCaramelStrawberryPal		@ 36 bytes
+gFrontSprite1249AlcremieCaramelStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0x7F03,0xD839,0x9124,0x001C
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1249AlcremieCaramelStrawberryPal, .-gFrontSprite1249AlcremieCaramelStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1250AlcremieCaramelBerryPal		@ 36 bytes
+gFrontSprite1250AlcremieCaramelBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0xE003,0x4065,0xA049,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1250AlcremieCaramelBerryPal, .-gFrontSprite1250AlcremieCaramelBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1251AlcremieCaramelCloverPal		@ 36 bytes
+gFrontSprite1251AlcremieCaramelCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0x7103,0x4323,0x4312,0x0011
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1251AlcremieCaramelCloverPal, .-gFrontSprite1251AlcremieCaramelCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1252AlcremieCaramelFlowerPal		@ 32 bytes
+gFrontSprite1252AlcremieCaramelFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x6080,0x0303,0x15BF,0x0CF3,0x0000
+	.size	gFrontSprite1252AlcremieCaramelFlowerPal, .-gFrontSprite1252AlcremieCaramelFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1253AlcremieCaramelLovePal		@ 36 bytes
+gFrontSprite1253AlcremieCaramelLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0x7F03,0xDF66,0xFB3D,0x0034
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1253AlcremieCaramelLovePal, .-gFrontSprite1253AlcremieCaramelLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1254AlcremieCaramelRibbonPal		@ 36 bytes
+gFrontSprite1254AlcremieCaramelRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0x3603,0x925A,0x2E55,0x0045
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1254AlcremieCaramelRibbonPal, .-gFrontSprite1254AlcremieCaramelRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1255AlcremieCaramelStarPal		@ 36 bytes
+gFrontSprite1255AlcremieCaramelStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xBF7F,0xB95F,0x003E,0x32BD
+	.hword 0x25D2,0x7FFF,0x5AD5,0x5080,0x9F03,0xD91B,0xD80E,0x0009
+	.hword 0x0000,0x0000
+	.size	gFrontSprite1255AlcremieCaramelStarPal, .-gFrontSprite1255AlcremieCaramelStarPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1256AlcremieRainbowStrawberryPal		@ 40 bytes
+gFrontSprite1256AlcremieRainbowStrawberryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x397F,0x24D8,0x1C91,0x0000
+	.size	gFrontSprite1256AlcremieRainbowStrawberryPal, .-gFrontSprite1256AlcremieRainbowStrawberryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1257AlcremieRainbowBerryPal		@ 40 bytes
+gFrontSprite1257AlcremieRainbowBerryPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x65E0,0x4940,0x34A0,0x0000
+	.size	gFrontSprite1257AlcremieRainbowBerryPal, .-gFrontSprite1257AlcremieRainbowBerryPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1258AlcremieRainbowCloverPal		@ 40 bytes
+gFrontSprite1258AlcremieRainbowCloverPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x2371,0x1243,0x1143,0x0000
+	.size	gFrontSprite1258AlcremieRainbowCloverPal, .-gFrontSprite1258AlcremieRainbowCloverPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1259AlcremieRainbowFlowerPal		@ 40 bytes
+gFrontSprite1259AlcremieRainbowFlowerPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x03FF,0x15BF,0x0CF3,0x0000
+	.size	gFrontSprite1259AlcremieRainbowFlowerPal, .-gFrontSprite1259AlcremieRainbowFlowerPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1260AlcremieRainbowLovePal		@ 40 bytes
+gFrontSprite1260AlcremieRainbowLovePal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x667F,0x3DDF,0x34FB,0x0000
+	.size	gFrontSprite1260AlcremieRainbowLovePal, .-gFrontSprite1260AlcremieRainbowLovePal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1261AlcremieRainbowRibbonPal		@ 40 bytes
+gFrontSprite1261AlcremieRainbowRibbonPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x5A36,0x5592,0x452E,0x0000
+	.size	gFrontSprite1261AlcremieRainbowRibbonPal, .-gFrontSprite1261AlcremieRainbowRibbonPal
+
+	.section .rodata
+	.align	2
+	.global gFrontSprite1262AlcremieRainbowStarPal		@ 40 bytes
+gFrontSprite1262AlcremieRainbowStarPal:
+	.hword 0x2010,0x0000,0x5300,0xFF53,0xFF7F,0x1A5F,0x003F,0x2E5B
+	.hword 0x216F,0x569E,0x461A,0xB600,0x9073,0xFF56,0x1B3B,0x0017
+	.hword 0x1B9F,0x0ED9,0x09D8,0x0000
+	.size	gFrontSprite1262AlcremieRainbowStarPal, .-gFrontSprite1262AlcremieRainbowStarPal
+
+@}}BLOCK(gMultiAlcremiePalettes)
